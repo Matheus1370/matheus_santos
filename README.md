@@ -1,7 +1,7 @@
 # Meu Perfil
 
 ## Sobre
-Seja bem vindo, me chamo Matheus da Silva Santos. Tenho formação técnica em desenvolvimento de sistemas, essa formação foi feita de JUL/2021 até DEZ/2022. Seguindo minha evolução no estudos, estou cursando sistemas de informação. Tabalhei com auxiliar de logística no cd da Riachuelo por um curto período. Estou com o foco de conseguir uma oportunidade de estágio de desenvolvedor Java ou PHP. 
+Seja bem vindo, me chamo Matheus da Silva Santos. Tenho formação técnica em desenvolvimento de sistemas, essa formação foi feita de JUL/2021 até DEZ/2022. Seguindo minha evolução no estudos, estou cursando sistemas de informação. Tabalhei com auxiliar de logística no cd da Riachuelo por um curto período. Estou com o foco de conseguir uma oportunidade de desenvolvedor Java ou PHP. 
 
 ## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/Linkedin-000015?style=for-the-badge&logo=linkedin&logoColor=0080ff)](https://www.linkedin.com/in/matheussilvasantos/)
