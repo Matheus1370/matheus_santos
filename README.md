@@ -1,21 +1,25 @@
 # Meu Perfil
 
 ## Sobre
-Seja bem vindo, me chamo Matheus da Silva Santos. Tenho formação técnica em desenvolvimento de sistemas, essa formação foi feita de JUL/2021 até DEZ/2022. Seguindo minha evolução no estudos, estou cursando o 4° semestre de sistemas de informação. Estou com o foco de conseguir uma oportunidade de desenvolvedor Java ou PHP. 
+Seja bem vindo, aqui demonstro minhas habilidades utilizando diversas tecnologias para criação de aplicações web. No momento estou com foco em estudar o ecossistema Java voltado para web, no decorrer dos meus estudos estarei criando alguns projetos, estes irão marcar a minha trajetória na construção de aplicações cada vez mais robusta com recursos novos.
 
 ## Conecte-se comigo
-[![Linkedin](https://img.shields.io/badge/Linkedin-000015?style=for-the-badge&logo=linkedin&logoColor=0080ff)](https://www.linkedin.com/in/matheussilvasantos/)
-[![Instagram](https://img.shields.io/badge/Instagram-000015?style=for-the-badge&logo=instagram&logoColor=0080ff)](https://www.instagram.com/matheus_1370/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000015?style=for-the-badge&logo=linkedin&logoColor=0080ff)](https://www.linkedin.com/in/matheuss-ssantos/)
 
 
 ## Tecnologias
 ![Java](https://img.shields.io/badge/Java-000015?style=for-the-badge&logo=java)
-![MySQL](https://img.shields.io/badge/MySQL-000015?style=for-the-badge&logo=mysql)
-![MySQL](https://img.shields.io/badge/MySQL-000015?style=for-the-badge&logo=postgre)
 ![Javascript](https://img.shields.io/badge/JavaScript-000015?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-000015?style=for-the-badge&logo=mysql)
+![Postgre](https://img.shields.io/badge/Postgre-000015?style=for-the-badge&logo=postgresql)
+![Swagger](https://img.shields.io/badge/Swagger-000015?style=for-the-badge&logo=swagger)
+![Docker](https://img.shields.io/badge/Docker-000015?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-000015?style=for-the-badge&logo=postman)
 ![Git](https://img.shields.io/badge/Git-000015?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000015?style=for-the-badge&logo=github)
 
 ## Blibiotecas/Frameworks
+![Spring Boot](https://img.shields.io/badge/SpringBoot-000015?style=for-the-badge&logo=springboot)
 ![Vue.js](https://img.shields.io/badge/Vue.js-000015?style=for-the-badge&logo=vue.js)
 ![Angular](https://img.shields.io/badge/Angular-000015?style=for-the-badge&logo=angular&logoColor=C3002F)
 
